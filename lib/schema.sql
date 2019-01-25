@@ -38,4 +38,4 @@ CREATE TABLE character_books (
   character_id INTEGER
 );
 
-CREATE TABLE authors_series
+CREATE TABLE authors_
