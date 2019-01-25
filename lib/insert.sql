@@ -13,7 +13,7 @@ INSERT INTO characters VALUES (1, "Hagrid", "Human", "You're a wizard Harry", 2,
 INSERT INTO characters VALUES (1, "Alice", "Human", "I am so small", 1, 1);
 INSERT INTO characters VALUES (1, "Cheshire Cat", "Cat", "Who are you", 1, 1);
 INSERT INTO characters VALUES (1, "Tweedledee", "Human", "Duh", 1, 1);
-INSERT INTO characters VALUES (1, "", "", "", , );
+INSERT INTO characters VALUES (1, "Tweedledum", "Human", "Oh", 1, 1);
 INSERT INTO characters VALUES (1, "", "", "", , );
 INSERT INTO characters VALUES (1, "", "", "", , );
 
