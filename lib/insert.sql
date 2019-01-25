@@ -30,7 +30,7 @@ INSERT INTO character_books VALUES (4, 6, 7);
 INSERT INTO character_books VALUES (5, 2, 2);
 INSERT INTO character_books VALUES (6, 5, 3);
 INSERT INTO character_books VALUES (7, 2, 5);
-INSERT INTO character_books VALUES (8, , );
+INSERT INTO character_books VALUES (8, 3, 4);
 INSERT INTO character_books VALUES (9, , );
 INSERT INTO character_books VALUES (10, , );
 INSERT INTO character_books VALUES (11, , );
