@@ -10,7 +10,7 @@ CREATE TABLE series (
   
 );
 
-CREATE TABLE characters (
+CREATE TABLE authos (
   
 );
 
