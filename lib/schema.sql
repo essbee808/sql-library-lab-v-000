@@ -19,7 +19,7 @@ CREATE TABLE series (
 CREATE TABLE authors (
   id INTEGER PRIMARY KEY,
   name TEXT,
-  author_id
+  author_id TEXT
 );
 
 CREATE TABLE sub_genres (
