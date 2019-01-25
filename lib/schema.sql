@@ -46,5 +46,7 @@ CREATE TABLE series_authors (
 );
 
 CREATE TABLE series_subgenres (
-  
+  id INTEGER PRIMARY KEY,
+  series_id INTEGER,
+  subgenre_id INTEGER
 );
