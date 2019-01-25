@@ -1,1 +1,1 @@
-INSERT INTO series VALUES ()
+INSERT INTO series VALUES (1, )
