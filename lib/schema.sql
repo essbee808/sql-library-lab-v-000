@@ -18,7 +18,8 @@ CREATE TABLE series (
 
 CREATE TABLE authors (
   id INTEGER PRIMARY KEY,
-  name TEXT
+  name TEXT,
+  author_id
 );
 
 CREATE TABLE sub_genres (
