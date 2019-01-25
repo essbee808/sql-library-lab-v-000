@@ -9,3 +9,12 @@ INSERT INTO books VALUES (5, "The Deathly Hollows Part 1", 2006, 2);
 INSERT INTO books VALUES (6, "The Deathly Hollows Part 2", 2008, 2);
 
 INSERT INTO characters VALUES ()
+
+CREATE TABLE characters (
+  id INTEGER PRIMARY KEY,
+  name TEXT,
+  species TEXT,
+  motto TEXT,
+  series_id INTEGER,
+  author_id INTEGER
+);
