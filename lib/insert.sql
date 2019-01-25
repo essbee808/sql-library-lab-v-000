@@ -23,3 +23,4 @@ INSERT INTO subgenres VALUES (2, "drama");
 INSERT INTO authors VALUES (1, "Lewis Carroll");
 INSERT INTO authors VALUES (2, "J.K. Rowling");
 
+INSERT INTO character_books
