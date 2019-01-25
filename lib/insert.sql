@@ -9,7 +9,7 @@ INSERT INTO books VALUES (5, "The Deathly Hollows Part 1", 2006, 2);
 INSERT INTO books VALUES (6, "The Deathly Hollows Part 2", 2008, 2);
 
 INSERT INTO characters VALUES (1, "Albus", "Human", "I am the best", 2, 2);
-INSERT INTO characters VALUES (1, "Hagrid", "Human", "You're a wizard Harry", 2, );
+INSERT INTO characters VALUES (1, "Hagrid", "Human", "You're a wizard Harry", 2, 2);
 INSERT INTO characters VALUES (1, "", "", "", , );
 INSERT INTO characters VALUES (1, "", "", "", , );
 INSERT INTO characters VALUES (1, "", "", "", , );
