@@ -15,7 +15,7 @@ INSERT INTO characters VALUES (1, "Cheshire Cat", "Cat", "Who are you", 1, 1);
 INSERT INTO characters VALUES (1, "Tweedledee", "Human", "Duh", 1, 1);
 INSERT INTO characters VALUES (1, "Tweedledum", "Human", "Oh", 1, 1);
 INSERT INTO characters VALUES (1, "Hermiome", "Human", "Its Leviosa", 2, 2);
-INSERT INTO characters VALUES (1, "Professor McGonnagal", "", "", , );
+INSERT INTO characters VALUES (1, "Professor McGon", "", "", , );
 
 CREATE TABLE characters (
   id INTEGER PRIMARY KEY,
