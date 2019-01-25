@@ -21,7 +21,8 @@ CREATE TABLE series (
   subgenre_id TEXT
 );
 
-CREATE TABLE character_books
+CREATE TABLE character_books (
+);
 
 CREATE TABLE authors (
   id INTEGER PRIMARY KEY,
