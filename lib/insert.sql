@@ -17,11 +17,3 @@ INSERT INTO characters VALUES (1, "Tweedledum", "Human", "Oh", 1, 1);
 INSERT INTO characters VALUES (1, "Hermiome", "Human", "Its Leviosa", 2, 2);
 INSERT INTO characters VALUES (1, "Professor McGonagall", "Cat", "Stop it", 2, 2);
 
-CREATE TABLE characters (
-  id INTEGER PRIMARY KEY,
-  name TEXT,
-  species TEXT,
-  motto TEXT,
-  series_id INTEGER,
-  author_id INTEGER
-);
