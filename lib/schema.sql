@@ -37,15 +37,3 @@ CREATE TABLE character_books (
   book_id INTEGER,
   character_id INTEGER
 );
-
-CREATE TABLE series_authors (
-  id INTEGER PRIMARY KEY,
-  series_id INTEGER,
-  author_id INTEGER
-);
-
-CREATE TABLE series_subgenres (
-  id INTEGER PRIMARY KEY,
-  series_id INTEGER,
-  subgenre_id INTEGER
-);
