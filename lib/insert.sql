@@ -21,5 +21,5 @@ INSERT INTO subgenres VALUES (1, "young adult fiction");
 INSERT INTO subgenres VALUES (2, "drama");
 
 INSERT INTO authors VALUES (1, "Lewis Carroll");
-INSERT INTO authors VALUES (2, "")
+INSERT INTO authors VALUES (2, "J.K. Row")
 
