@@ -3,7 +3,6 @@ CREATE TABLE characters (
   name TEXT,
   motto TEXT,
   species TEXT
-  
 );
 
 CREATE TABLE books (
