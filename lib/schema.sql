@@ -41,5 +41,6 @@ CREATE TABLE character_books (
 
 CREATE TABLE series_authors (
   id INTEGER PRIMARY KEY,
+  series_id INTEGER,
   
 );
