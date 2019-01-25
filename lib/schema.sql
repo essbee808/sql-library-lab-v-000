@@ -31,7 +31,7 @@ CREATE TABLE subgenres (
   name TEXT
 );
 
-/*Join tables
+/*Join tables*/
 CREATE TABLE character_books (
   id INTEGER PRIMARY KEY
 );
