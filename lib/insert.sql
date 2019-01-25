@@ -22,7 +22,3 @@ INSERT INTO subgenres VALUES (2, "drama");
 
 
 
-CREATE TABLE subgenres (
-  id INTEGER PRIMARY KEY,
-  name TEXT
-);
