@@ -22,6 +22,7 @@ CREATE TABLE series (
 );
 
 CREATE TABLE character_books (
+  
 );
 
 CREATE TABLE authors (
