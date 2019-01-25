@@ -10,7 +10,7 @@ CREATE TABLE series (
   
 );
 
-CREATE TABLE authos (
+CREATE TABLE authors (
   
 );
 
