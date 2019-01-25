@@ -31,14 +31,14 @@ INSERT INTO character_books VALUES (5, 2, 2);
 INSERT INTO character_books VALUES (6, 5, 3);
 INSERT INTO character_books VALUES (7, 2, 5);
 INSERT INTO character_books VALUES (8, 3, 4);
-INSERT INTO character_books VALUES (9, , );
-INSERT INTO character_books VALUES (10, , );
-INSERT INTO character_books VALUES (11, , );
-INSERT INTO character_books VALUES (12, , );
-INSERT INTO character_books VALUES (13, , );
-INSERT INTO character_books VALUES (14, , );
-INSERT INTO character_books VALUES (15, , );
-INSERT INTO character_books VALUES (16, , );
+INSERT INTO character_books VALUES (9, 1, 7);
+INSERT INTO character_books VALUES (10, 2, 1);
+INSERT INTO character_books VALUES (11, 5, 4);
+INSERT INTO character_books VALUES (12, 4, 4);
+INSERT INTO character_books VALUES (13, 4, 2);
+INSERT INTO character_books VALUES (14, 7, 6);
+INSERT INTO character_books VALUES (15, 7, 5);
+INSERT INTO character_books VALUES (16, 2, 6);
 
 CREATE TABLE character_books (
   id INTEGER PRIMARY KEY,
