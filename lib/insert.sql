@@ -20,7 +20,7 @@ INSERT INTO characters VALUES (8, "Professor McGonagall", "Cat", "Stop it", 2, 2
 INSERT INTO subgenres VALUES (1, "suspense fiction");
 INSERT INTO subgenres VALUES (2, "drama");
 INSERT INTO subgenres VALUES (3, "romance");
-INSERT INTO subgenres VALUES (4, "")
+INSERT INTO subgenres VALUES (4, "young adult finction");
 
 CREATE TABLE subgenres (
   id INTEGER PRIMARY KEY,
