@@ -14,6 +14,6 @@ CREATE TABLE authors (
   
 );
 
-CREATE TABLE characters (
+CREATE TABLE sub_genres (
   
 );
