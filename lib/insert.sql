@@ -24,6 +24,21 @@ INSERT INTO authors VALUES (1, "Lewis Carroll");
 INSERT INTO authors VALUES (2, "J.K. Rowling");
 
 INSERT INTO character_books VALUES (1, , );
+INSERT INTO character_books VALUES (2, , );
+INSERT INTO character_books VALUES (3, , );
+INSERT INTO character_books VALUES (4, , );
+INSERT INTO character_books VALUES (5, , );
+INSERT INTO character_books VALUES (6, , );
+INSERT INTO character_books VALUES (7, , );
+INSERT INTO character_books VALUES (8, , );
+INSERT INTO character_books VALUES (9, , );
+INSERT INTO character_books VALUES (10, , );
+INSERT INTO character_books VALUES (11, , );
+INSERT INTO character_books VALUES (12, , );
+INSERT INTO character_books VALUES (13, , );
+INSERT INTO character_books VALUES (14, , );
+INSERT INTO character_books VALUES (15, , );
+INSERT INTO character_books VALUES (16, , );
 
 CREATE TABLE character_books (
   id INTEGER PRIMARY KEY,
