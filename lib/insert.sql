@@ -1,4 +1,4 @@
-INSERT INTO series VALUES (1, )
+INSERT INTO series VALUES (1, "The MadHatter", 2, 1)
 
 CREATE TABLE series (
   id INTEGER PRIMARY KEY,
