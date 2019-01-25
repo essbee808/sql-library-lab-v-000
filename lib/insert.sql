@@ -17,7 +17,7 @@ INSERT INTO characters VALUES (6, "Tweedledum", "Human", "Oh", 1, 1);
 INSERT INTO characters VALUES (7, "Hermiome", "Human", "Its Leviosa", 2, 2);
 INSERT INTO characters VALUES (8, "Professor McGonagall", "Cat", "Stop it", 2, 2);
 
-INSERT INTO subgenres VALUES (1, )
+INSERT INTO subgenres VALUES (1, "suspense fiction")
 
 CREATE TABLE subgenres (
   id INTEGER PRIMARY KEY,
