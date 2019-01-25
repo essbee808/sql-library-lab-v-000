@@ -45,4 +45,4 @@ CREATE TABLE series_authors (
   author_id INTEGER
 );
 
-CREATE TABLE 
+CREATE TABLE series_
