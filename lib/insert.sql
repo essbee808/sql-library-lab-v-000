@@ -14,7 +14,7 @@ INSERT INTO characters VALUES (3, "Alice", "Human", "I am so small", 1, 1);
 INSERT INTO characters VALUES (4, "Cheshire Cat", "Cat", "Who are you", 1, 1);
 INSERT INTO characters VALUES (5, "Tweedledee", "Human", "Duh", 1, 1);
 INSERT INTO characters VALUES (6, "Tweedledum", "Human", "Oh", 1, 1);
-INSERT INTO characters VALUES (7, "Hermiome", "Human", "Its Leviosa", 2, 2);
+INSERT INTO characters VALUES (7, "Hermione", "Human", "Its Leviosa", 2, 2);
 INSERT INTO characters VALUES (8, "Professor McGonagall", "Cat", "Stop it", 2, 2);
 
 INSERT INTO subgenres VALUES (1, "young adult fiction");
@@ -23,10 +23,10 @@ INSERT INTO subgenres VALUES (2, "drama");
 INSERT INTO authors VALUES (1, "Lewis Carroll");
 INSERT INTO authors VALUES (2, "J.K. Rowling");
 
-INSERT INTO character_books VALUES (1, , );
-INSERT INTO character_books VALUES (2, , );
-INSERT INTO character_books VALUES (3, , );
-INSERT INTO character_books VALUES (4, , );
+INSERT INTO character_books VALUES (1, 1, 8);
+INSERT INTO character_books VALUES (2, 3, 1);
+INSERT INTO character_books VALUES (3, 6, 8);
+INSERT INTO character_books VALUES (4, 6, 7);
 INSERT INTO character_books VALUES (5, , );
 INSERT INTO character_books VALUES (6, , );
 INSERT INTO character_books VALUES (7, , );
