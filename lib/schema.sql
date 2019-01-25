@@ -13,13 +13,14 @@ CREATE TABLE books (
 
 CREATE TABLE series (
   id INTEGER PRIMARY KEY,
-  title TEXT
+  title TEXT,
+   author_id TEXT
 );
 
 CREATE TABLE authors (
   id INTEGER PRIMARY KEY,
   name TEXT,
-  author_id TEXT
+ 
 );
 
 CREATE TABLE sub_genres (
