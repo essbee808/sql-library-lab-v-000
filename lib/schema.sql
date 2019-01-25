@@ -45,4 +45,6 @@ CREATE TABLE series_authors (
   author_id INTEGER
 );
 
-CREATE TABLE series_
+CREATE TABLE series_subgenres (
+  
+);
