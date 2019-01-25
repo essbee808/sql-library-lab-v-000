@@ -20,5 +20,6 @@ INSERT INTO characters VALUES (8, "Professor McGonagall", "Cat", "Stop it", 2, 2
 INSERT INTO subgenres VALUES (1, "young adult fiction");
 INSERT INTO subgenres VALUES (2, "drama");
 
-INSERT INTO authors VALUES (1, "Lewis Carroll")
+INSERT INTO authors VALUES (1, "Lewis Carroll");
+INSERT INTO authors VALUES (2, "")
 
