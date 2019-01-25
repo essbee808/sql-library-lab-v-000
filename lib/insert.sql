@@ -23,4 +23,10 @@ INSERT INTO subgenres VALUES (2, "drama");
 INSERT INTO authors VALUES (1, "Lewis Carroll");
 INSERT INTO authors VALUES (2, "J.K. Rowling");
 
-INSERT INTO character_books VALUES ();
+INSERT INTO character_books VALUES (1, , );
+
+CREATE TABLE character_books (
+  id INTEGER PRIMARY KEY,
+  book_id INTEGER,
+  character_id INTEGER
+);
