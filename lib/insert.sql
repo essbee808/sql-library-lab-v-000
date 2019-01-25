@@ -39,9 +39,3 @@ INSERT INTO character_books VALUES (13, 4, 2);
 INSERT INTO character_books VALUES (14, 7, 6);
 INSERT INTO character_books VALUES (15, 7, 5);
 INSERT INTO character_books VALUES (16, 2, 6);
-
-CREATE TABLE character_books (
-  id INTEGER PRIMARY KEY,
-  character_id INTEGER,
-  book_id INTEGER
-);
