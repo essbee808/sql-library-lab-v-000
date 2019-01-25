@@ -44,3 +44,5 @@ CREATE TABLE series_authors (
   series_id INTEGER,
   author_id INTEGER
 );
+
+CREATE TABLE 
