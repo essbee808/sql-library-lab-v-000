@@ -39,4 +39,6 @@ CREATE TABLE character_books (
 );
 
 
-CREATE TABLE series_authors ()
+CREATE TABLE series_authors (
+  
+);
